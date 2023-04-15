@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Definitions 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Definition xsi:type="EnvironmentDefinition">
+    <Id>
+      <TypeId>EnvironmentDefinition</TypeId>
+      <SubtypeId>Default</SubtypeId>
+    </Id>
+
+    <SunProperties>
+      <SunIntensity>40</SunIntensity>
+      <EnvironmentLight>
+        <SunDiscColor>
+            <X>0.7</X>
+            <Y>0.4</Y>
+            <Z>0.6</Z>
+        </SunDiscColor>
+
+        <SunDiscInnerDot>0.99996</SunDiscInnerDot>
+        <SunDiscOuterDot>0.99995</SunDiscOuterDot>
+      </EnvironmentLight>
+    </SunProperties>
+  </Definition>
+</Definitions>

@@ -1,0 +1,57 @@
+﻿[h1][b]➤⠀I⠀N⠀F⠀O[/b][/h1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+This only modifies sun rays and flares.
+
+You can customize your skybox with my [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] Enviroment Collection [/url].
+It includes Skybox, Sun and Environment as seperate mods. They can be combined so that you can build your Skybox to your liking.
+
+It is almost the same sun i use in my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1369663583] Environment Complete[/url] mod, but it's smaller.
+
+[h1][b]➤⠀L⠀O⠀A⠀D⠀ O⠀R⠀D⠀E⠀R[/b][/h1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+Unless otherwise stated, the mod load order should be as follows:
+[olist]
+[*] Sun
+[*] Ligthing
+[*] Skybox
+[*] Complete
+[/olist][i]Reverse this for dedicated servers[/i]
+
+[h1][b]➤⠀C⠀R⠀E⠀D⠀I⠀T⠀S[/b][/H1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+A big thanks to [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] for pointing out the profiler build.
+
+[h1][b]➤⠀S⠀U⠀P⠀P⠀O⠀R⠀T[/b][/H1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[img]https://steamuserimages-a.akamaihd.net/ugc/949586220823602248/339F6748C4155B2EC3EDD33FDAF04F1B12A4A500/[/img][url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823603246/BA1A8E6272BE3863194FEDB79F68D3DEACBE0837/[/img][/url][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BUABNQCJ59CG][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823604755/9492C8834824BCC7FE9EEACAD803F8BA99854E05/[/img][/url]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[h1][b]➤⠀I⠀N⠀F⠀O[/b][/h1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+Dies modifiziert nur Sonnenstrahlen und Flares.
+
+Du kannst deine Skybox mit meiner [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] Enviroment Collection [/url] anpassen.
+Sie enthält Skybox, Sun und Environment als separate Mods. Sie können kombiniert werden, sodass du deine Skybox nach deinen Wünschen bauen kannst.
+
+Es ist fast die gleiche Sonne, die ich in meiner [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1369663583] Environment Complete[/url] mod verwende, aber sie ist kleiner.
+
+[h1][b]➤⠀L⠀O⠀A⠀D⠀ O⠀R⠀D⠀E⠀R[/b][/h1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+Sofern nicht anders angegeben, sollte die Mod-Reihenfolge wie folgt sein:
+[olist]
+[*] Sun
+[*] Ligthing
+[*] Skybox
+[*] Complete
+[/olist][i]Kehrt dies für dedizierte Server um[/i]
+
+[h1][b]➤⠀C⠀R⠀E⠀D⠀I⠀T⠀S[/b][/H1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+Ein großes Dankeschön geht an [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] für den Hinweis auf den Profiler-Build.
+
+[h1][b]➤⠀S⠀U⠀P⠀P⠀O⠀R⠀T[/b][/H1]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[img]https://steamuserimages-a.akamaihd.net/ugc/949586220823602248/339F6748C4155B2EC3EDD33FDAF04F1B12A4A500/[/img][url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823603246/BA1A8E6272BE3863194FEDB79F68D3DEACBE0837/[/img][/url][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BUABNQCJ59CG][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823604755/9492C8834824BCC7FE9EEACAD803F8BA99854E05/[/img][/url]
