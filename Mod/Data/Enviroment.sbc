@@ -11,19 +11,16 @@
       <SunIntensity>60</SunIntensity>
       <EnvironmentLight>
         <SunDiscColor>
-            <X>0.7</X>
-            <Y>0.4</Y>
-            <Z>0.6</Z>
+            <X>1</X>
+            <Y>1</Y>
+            <Z>2</Z>
         </SunDiscColor>
-        <SunDiscColor2>
-            <X>1.0</X>
-            <Y>0.6</Y>
-            <Z>0.6</Z>
-        </SunDiscColor2>
 
         <SunDiscInnerDot>0.99996</SunDiscInnerDot>
         <SunDiscOuterDot>0.99995</SunDiscOuterDot>
 
+        <SunDiscIntensity>0</SunDiscIntensity>
+        
       </EnvironmentLight>
     </SunProperties>
   </Definition>
