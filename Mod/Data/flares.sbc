@@ -13,9 +13,9 @@
           <Type>Oriented</Type>
           <Material>SunBigRays2</Material>
           <Color>
-            <X>0.96</X>
-            <Y>0.73</Y>
-            <Z>0.44</Z>
+            <X>0.443</X>
+            <Y>0.757</Y>
+            <Z>0.961</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -48,9 +48,9 @@
           <Type>Oriented</Type>
           <Material>SunBigRays3</Material>
           <Color>
-            <X>0.96</X>
-            <Y>0.73</Y>
-            <Z>0.44</Z>
+            <X>0.443</X>
+            <Y>0.757</Y>
+            <Z>0.961</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -83,9 +83,9 @@
           <Type>Oriented</Type>
           <Material>SunBigRays4</Material>
           <Color>
-            <X>0.96</X>
-            <Y>0.73</Y>
-            <Z>0.44</Z>
+            <X>0.443</X>
+            <Y>0.757</Y>
+            <Z>0.961</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -119,9 +119,9 @@
           <Type>Oriented</Type>
           <Material>SunBigRays3</Material>
           <Color>
-            <X>0.96</X>
-            <Y>0.23</Y>
-            <Z>0.36</Z>
+            <X>0.231</X>
+            <Y>0.294</Y>
+            <Z>0.961</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -154,9 +154,9 @@
           <Type>Oriented</Type>
           <Material>SunBigRays3</Material>
           <Color>
-            <X>0.96</X>
-            <Y>0.23</Y>
-            <Z>0.36</Z>
+            <X>0.231</X>
+            <Y>0.294</Y>
+            <Z>0.961</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -366,9 +366,9 @@
           <Type>Oriented</Type>
           <Material>SunFlareHexagon</Material>
           <Color>
-            <X>0.73</X>
-            <Y>0.36</Y>
-            <Z>0.62</Z>
+            <X>0.357</X>
+            <Y>0.522</Y>
+            <Z>0.729</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -397,9 +397,9 @@
           <Type>Oriented</Type>
           <Material>SunFlareHexagon</Material>
           <Color>
-            <X>0.73</X>
-            <Y>0.36</Y>
-            <Z>0.62</Z>
+            <X>0.357</X>
+            <Y>0.522</Y>
+            <Z>0.729</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -429,9 +429,9 @@
           <Type>Oriented</Type>
           <Material>SunFlareHexagon</Material>
           <Color>
-            <X>0.73</X>
-            <Y>0.36</Y>
-            <Z>0.62</Z>
+            <X>0.357</X>
+            <Y>0.522</Y>
+            <Z>0.729</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -461,9 +461,9 @@
           <Type>Oriented</Type>
           <Material>SunFlareHexagon</Material>
           <Color>
-            <X>0.73</X>
-            <Y>0.36</Y>
-            <Z>0.62</Z>
+            <X>0.357</X>
+            <Y>0.522</Y>
+            <Z>0.729</Z>
             <W>1</W>
           </Color>
           <Size>
@@ -493,9 +493,9 @@
           <Type>Oriented</Type>
           <Material>SunFlareHexagon</Material>
           <Color>
-            <X>0.36</X>
-            <Y>0.6</Y>
-            <Z>0.74</Z>
+            <X>0.361</X>
+            <Y>0.643</Y>
+            <Z>0.741</Z>
             <W>1</W>
           </Color>
           <Size>
