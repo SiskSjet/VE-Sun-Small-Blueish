@@ -6,9 +6,9 @@
         <TypeId>FlareDefinition</TypeId>
         <SubtypeId>Sun</SubtypeId>
       </Id>
-      <Intensity>1</Intensity>
+      <Intensity>2.5</Intensity>
       <SubGlares>
-        <!-- 1. Yellowish Ray -->
+        <!-- 1. Blueish Ray -->
         <SubGlare>
           <Type>Oriented</Type>
           <Material>SunBigRays2</Material>
@@ -43,7 +43,7 @@
           </ScreenCenterDistance>
         </SubGlare>
 
-        <!-- 2. Yellowish Ray -->
+        <!-- 2. Blueish Ray -->
         <SubGlare>
           <Type>Oriented</Type>
           <Material>SunBigRays3</Material>
@@ -78,7 +78,7 @@
           </ScreenCenterDistance>
         </SubGlare>
 
-        <!-- 3. Yellowish Ray -->
+        <!-- 3. Blueish Ray -->
         <SubGlare>
           <Type>Oriented</Type>
           <Material>SunBigRays4</Material>
@@ -113,7 +113,7 @@
           </ScreenCenterDistance>
         </SubGlare>
 
-        <!-- Redish Rays -->
+        <!-- Blueish Rays -->
         <!-- Horizontal -->
         <SubGlare>
           <Type>Oriented</Type>

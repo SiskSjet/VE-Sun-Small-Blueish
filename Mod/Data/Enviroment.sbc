@@ -8,18 +8,18 @@
     </Id>
 
     <SunProperties>
-      <SunIntensity>60</SunIntensity>
+      <SunIntensity>160</SunIntensity>
       <EnvironmentLight>
         <SunDiscColor>
             <X>1</X>
             <Y>1</Y>
-            <Z>2</Z>
+            <Z>3</Z>
         </SunDiscColor>
 
         <SunDiscInnerDot>0.99996</SunDiscInnerDot>
         <SunDiscOuterDot>0.99995</SunDiscOuterDot>
 
-        <SunDiscIntensity>0</SunDiscIntensity>
+        <SunDiscIntensity>2.8</SunDiscIntensity>
         
       </EnvironmentLight>
     </SunProperties>
