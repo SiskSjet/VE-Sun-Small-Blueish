@@ -12,7 +12,7 @@ Unless otherwise stated, the mod load order should be as follows:
 [*] Ligthing
 [*] Skybox
 [*] Preset
-[/olist][i]Reverse this for dedicated servers, but not for Torch[/i]
+[/olist][i]Reverse this for dedicated servers[/i]
 
 [h2]🛠︰Credits ・──────────・・・[/h2]
 A big thanks to [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] for pointing out the profiler build.
@@ -43,7 +43,7 @@ Sofern nicht anders angegeben, sollte die Mod-Reihenfolge wie folgt sein:
 [*] Ligthing
 [*] Skybox
 [*] Preset
-[/olist][i]Kehrt dies für dedizierte Server um, aber nicht für Torch[/i]
+[/olist][i]Kehrt dies für dedizierte Server um[/i]
 
 [h2]🛠︰Credits ・──────────・・・[/h2]
 Ein großes Dankeschön geht an [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] für den Hinweis auf den Profiler-Build.
