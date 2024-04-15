@@ -1,57 +1,57 @@
-﻿[h1][b]➤⠀I⠀N⠀F⠀O[/b][/h1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
-This only modifies sun rays and flares.
+﻿This only modifies sun rays and flares.
 
-You can customize your skybox with my [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] Enviroment Collection [/url].
+You can customize your skybox with my [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] VE Collection [/url].
 It includes Skybox, Sun and Environment as seperate mods. They can be combined so that you can build your Skybox to your liking.
 
-It is almost the same sun i use in my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1369663583] Environment Complete[/url] mod, but it's smaller.
+It is almost the same sun i use in my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3223582159] VE - Preset Blue[/url] mod.
 
-[h1][b]➤⠀L⠀O⠀A⠀D⠀ O⠀R⠀D⠀E⠀R[/b][/h1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[h2]🛠︰Load Order ・────────・・・[/h2]
 Unless otherwise stated, the mod load order should be as follows:
 [olist]
 [*] Sun
 [*] Ligthing
 [*] Skybox
-[*] Complete
-[/olist][i]Reverse this for dedicated servers[/i]
+[*] Preset
+[/olist][i]Reverse this for dedicated servers, but not for Torch[/i]
 
-[h1][b]➤⠀C⠀R⠀E⠀D⠀I⠀T⠀S[/b][/H1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[h2]🛠︰Credits ・──────────・・・[/h2]
 A big thanks to [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] for pointing out the profiler build.
 
-[h1][b]➤⠀S⠀U⠀P⠀P⠀O⠀R⠀T[/b][/H1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
-[img]https://steamuserimages-a.akamaihd.net/ugc/949586220823602248/339F6748C4155B2EC3EDD33FDAF04F1B12A4A500/[/img][url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823603246/BA1A8E6272BE3863194FEDB79F68D3DEACBE0837/[/img][/url][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BUABNQCJ59CG][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823604755/9492C8834824BCC7FE9EEACAD803F8BA99854E05/[/img][/url]
+[h2]🛠︰Support ・──────────・・・[/h2]
+It would be nice if you could consider supporting me 
+
+[url=https://ko-fi.com/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738438809/074D2B10C793252F866EEB91EC748E0E8B3C3210/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://patreon.com/sisk][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738613768/8FE59EC78463E3EFA52D59347D83D3C9838BF6E6/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://paypal.me/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738619680/36B89C41163487AD5BFB13B2C673E0F153171D29/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=true[/img][/url]
+
+or join my [url=https://discord.gg/2s22YCqSFg]Discord[/url] if you have suggestions, wishes, or just want to know what else I'm working on. My Discord is new, so there is not much going on yet.
+You can also check out my other mods in my [url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850]Workshop[/url].
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[h1][b]➤⠀I⠀N⠀F⠀O[/b][/h1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
 Dies modifiziert nur Sonnenstrahlen und Flares.
 
-Du kannst deine Skybox mit meiner [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] Enviroment Collection [/url] anpassen.
+Du kannst deine Skybox mit meiner [url=https://steamcommunity.com/workshop/filedetails/?id=1380376642] VE Collection [/url] anpassen.
 Sie enthält Skybox, Sun und Environment als separate Mods. Sie können kombiniert werden, sodass du deine Skybox nach deinen Wünschen bauen kannst.
 
-Es ist fast die gleiche Sonne, die ich in meiner [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1369663583] Environment Complete[/url] mod verwende, aber sie ist kleiner.
+Es ist fast die gleiche Sonne, die ich in meiner[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3223582159] VE - Preset Blue[/url] mod verwende.
 
-[h1][b]➤⠀L⠀O⠀A⠀D⠀ O⠀R⠀D⠀E⠀R[/b][/h1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[h2]🛠︰Load Order ・────────・・・[/h2]
 Sofern nicht anders angegeben, sollte die Mod-Reihenfolge wie folgt sein:
 [olist]
 [*] Sun
 [*] Ligthing
 [*] Skybox
-[*] Complete
-[/olist][i]Kehrt dies für dedizierte Server um[/i]
+[*] Preset
+[/olist][i]Kehrt dies für dedizierte Server um, aber nicht für Torch[/i]
 
-[h1][b]➤⠀C⠀R⠀E⠀D⠀I⠀T⠀S[/b][/H1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+[h2]🛠︰Credits ・──────────・・・[/h2]
 Ein großes Dankeschön geht an [url=https://steamcommunity.com/id/hunterdigi/myworkshopfiles/?appid=244850&sort=score&browsefilter=myfiles&view=imagewall] Digi[/url] für den Hinweis auf den Profiler-Build.
 
-[h1][b]➤⠀S⠀U⠀P⠀P⠀O⠀R⠀T[/b][/H1]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
-[img]https://steamuserimages-a.akamaihd.net/ugc/949586220823602248/339F6748C4155B2EC3EDD33FDAF04F1B12A4A500/[/img][url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823603246/BA1A8E6272BE3863194FEDB79F68D3DEACBE0837/[/img][/url][url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4BUABNQCJ59CG][img]https://steamuserimages-a.akamaihd.net/ugc/949586220823604755/9492C8834824BCC7FE9EEACAD803F8BA99854E05/[/img][/url]
+[h2]🛠︰Support ・──────────・・・[/h2]
+Es wäre schön, wenn ihr mich unterstützen würdet
+
+[url=https://ko-fi.com/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738438809/074D2B10C793252F866EEB91EC748E0E8B3C3210/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://patreon.com/sisk][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738613768/8FE59EC78463E3EFA52D59347D83D3C9838BF6E6/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=false[/img][/url] [url=https://paypal.me/sisksjet][img]https://steamuserimages-a.akamaihd.net/ugc/2287333413738619680/36B89C41163487AD5BFB13B2C673E0F153171D29/?imw=64&imh=64&ima=fit&impolicy=Letterbox&letterbox=true[/img][/url]
+
+oder meinem [url=https://discord.gg/2s22YCqSFg]Discord[/url] beitretet, wenn ihr Vorschläge oder Wünsche haben oder einfach nur wissen möchten, woran ich sonst noch arbeite. Mein Discord ist neu, daher ist noch nicht viel los.
+Ihr könnt euch auch meine anderen Mods in meinem [url=https://steamcommunity.com/id/sisksjet/myworkshopfiles/?appid=244850]Workshop[/url] ansehen.
